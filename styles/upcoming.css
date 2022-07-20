@@ -1,0 +1,42 @@
+.link-1 {
+    padding: 15px 45px;
+    color: #fff;
+    background-color: #DD0000;
+
+
+}
+
+
+.link-3 {
+    padding: 15px 97px;
+    background-color: #fff;
+    color: #161616;
+
+}
+
+.flag {
+    display: flex;
+    align-items: center;
+    padding: 30px 15px;
+}
+
+.flag p {
+    margin: 0 10px;
+}
+
+.match-info {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.match-info h5 {
+    color: #161616;
+    font-size: 20px;
+
+}
+
+.match-info p {
+    color: #4D4D4D;
+    padding-left: 10px;
+}
